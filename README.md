@@ -18,6 +18,7 @@ Ledger Live is a native mobile application built with React Native, React, Redux
 
 - Node LTS version
 - Yarn 1.10.1 or above
+- Ruby setup with Bundler https://bundler.io/
 
 ### iOS
 
@@ -32,6 +33,10 @@ Ledger Live is a native mobile application built with React Native, React, Redux
 ### `yarn install`
 
 install dependencies.
+
+### `bundle install`
+
+install Gem dependencies.
 
 ### `yarn start`
 
